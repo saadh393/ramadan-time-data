@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-10-31T00:00:00Z",
+  "hijriCorrections": [
+    { "effectiveFrom": "2026-10-13", "offset": -1 }
+  ],
+  "occasions": [
+    { "id": "hijri_new_year", "nameBn": "হিজরি নববর্ষ", "hijriMonth": 1, "hijriDay": 1 },
+    { "id": "ashura", "nameBn": "পবিত্র আশুরা", "hijriMonth": 1, "hijriDay": 10 },
+    { "id": "eid_e_miladunnabi", "nameBn": "ঈদে মিলাদুন্নবী", "hijriMonth": 3, "hijriDay": 12 },
+    { "id": "shab_e_miraj", "nameBn": "শবে মেরাজ", "hijriMonth": 7, "hijriDay": 27 },
+    { "id": "shab_e_barat", "nameBn": "শবে বরাত", "hijriMonth": 8, "hijriDay": 15 },
+    { "id": "ramadan_start", "nameBn": "রমজান শুরু", "hijriMonth": 9, "hijriDay": 1 },
+    { "id": "shab_e_qadr", "nameBn": "শবে কদর", "hijriMonth": 9, "hijriDay": 27 },
+    { "id": "eid_ul_fitr", "nameBn": "ঈদুল ফিতর", "hijriMonth": 10, "hijriDay": 1 },
+    { "id": "arafah", "nameBn": "আরাফার দিন", "hijriMonth": 12, "hijriDay": 9 },
+    { "id": "eid_ul_adha", "nameBn": "ঈদুল আযহা", "hijriMonth": 12, "hijriDay": 10 }
+  ]
+}
